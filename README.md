@@ -1,6 +1,6 @@
-# Sea Level Analysis with Respect to Greenland & Antarctica Ice Sheets
+# MEASURING THE EFFECT OF MELTING GREENLAND & ANTARCTICA ICE SHEETS ON RISING SEA LEVEL
 
-This analysis aims to understand the relationship between sea levels and ice sheets in Greenland and Antarctica.
+This analysis aims to understand the relationship between the rise of sea levels and the melting of ice sheets in Greenland and Antarctica.
 
 ## Prerequisites
 
@@ -30,7 +30,7 @@ Descriptive statistics are calculated for sea levels, Greenland's ice sheet mass
 
 ## Correlation
 
-Correlation is assessed between sea levels and the mass of ice sheets in both Greenland and Antarctica.
+Correlation is assessed between sea levels rise and the mass of ice sheets in both Greenland and Antarctica.
 
 ## Regression Analysis
 
