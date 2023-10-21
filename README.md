@@ -45,7 +45,3 @@ Model diagnostics are performed, including checks for normality, equal variance,
 ## Time-Series Forecasting
 
 The best ARIMA model is identified based on the BIC value to forecast future sea levels.
-
-## Visualizations
-
-Various plots and visualizations are generated throughout the analysis to aid understanding and interpretation of the data and results.
