@@ -45,3 +45,8 @@ Model diagnostics are performed, including checks for normality, equal variance,
 ## Time-Series Forecasting
 
 The best ARIMA model is identified based on the BIC value to forecast future sea levels.
+
+## Acknowledgment 
+
+- Sea Level Dataset: GSFC. (2020). Global Mean Sea Level Trend from Integrated Multi-Mission Ocean Altimeters TOPEX/Poseidon, Jason-1, OSTM/Jason-2 Version 5.0 Ver. 5.0 PO.DAAC, CA, USA.
+- Ice Sheets Datasets: Wiese, D. N., D.-N. Yuan, C. Boening, F. W. Landerer, and M. M. Watkins (2019) JPL GRACE and GRACE-FO Mascon Ocean, Ice, and Hydrology Equivalent Water Height RL06M CRI Filtered Version 2.0, Ver. 2.0, PO.DAAC, CA, USA.
