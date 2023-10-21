@@ -1,6 +1,6 @@
 # MEASURING THE EFFECT OF MELTING GREENLAND & ANTARCTICA ICE SHEETS ON RISING SEA LEVEL
 
-This analysis aims to understand the relationship between the rise of sea levels and the melting of ice sheets in Greenland and Antarctica.
+This analysis aims to understand the relationship between the rising of sea levels and the melting of ice sheets in Greenland and Antarctica.
 
 ## Prerequisites
 
