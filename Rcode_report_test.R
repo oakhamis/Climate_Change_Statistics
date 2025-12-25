@@ -1,7 +1,19 @@
 ###### SEA LEVEL ANALYSIS WITH RESPECT TO GREENLAND & ANTARCTICA ICE SHEETS #####
 
 # Importing necessary libraries
+library(dplyr)
 
+library(jtools)
+
+library(forecast)
+
+library (moments)
+
+library(broom.mixed)
+
+library(summarytools)
+
+library(PerformanceAnalytics)
 
 ##### INPUTTING DATA INTO R & DATA PREPROCESSING #####
 
